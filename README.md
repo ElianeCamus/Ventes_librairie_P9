@@ -29,3 +29,6 @@ Notebook Jupyter
 ## 
 >Attention ! : Ce projet a été réalisé dans le cadre de la formation "Data Analyst" avec l'organisme OpenClassrooms.
 
+## Visuels du projet
+![P9_S01](P9_S01.jpg)  
+
